@@ -1,0 +1,19 @@
+body {
+    background: green;
+}
+
+.title {
+    color: red;
+}
+
+.subtitle{
+    color:darksalmon;
+}
+
+#other-stuff {
+    color:aqua;
+}
+
+ul:hover {
+    color: blueviolet;
+}
